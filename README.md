@@ -1,29 +1,3 @@
-# vue_apex
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# 概要
+このvue-projectは勉強かねて以下サイトの内容をバックエンド(node.js)なしで構築したリポジトリです。
+[Apex Legends Tracker App](https://www.youtube.com/watch?v=8z2qRln9tnc)
